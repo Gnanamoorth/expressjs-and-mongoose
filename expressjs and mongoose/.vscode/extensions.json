@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-typescript-next",
+        "chris-noring.node-snippets",
+        "compulim.vscode-express",
+        "mongodb.mongodb-vscode",
+        "abdoseadaa.node-js-snippet",
+        "roerohan.mongo-snippets-for-node-js",
+        "snlbaral.express-mongo-snippets",
+        "jesusescamilla.bcryptor"
+    ]
+}
